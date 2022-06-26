@@ -1,0 +1,13 @@
+.Card-container {
+    max-width: 75%;
+    padding: 1rem 2rem;
+    background-color: rgba(252, 248, 248, 0.911);
+    border-radius: 0.25rem;
+    
+}
+.Line{
+    background-color: #c8c8c8;
+    width: 39vw;
+    height: 1px;
+    margin: 1rem 0 ;
+}

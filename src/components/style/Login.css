@@ -1,0 +1,45 @@
+.Modal {
+    max-width: 75%;
+    padding: 1rem 2rem;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(209, 203, 203, 0.911);
+    border-radius: 0.25rem;
+  }
+
+  section{
+    width: 100%;
+    min-height: 1000px;
+  }
+
+  .Wave-gradient{
+    
+    background: linear-gradient(90deg,#428686,#cdcbce);
+  }
+
+  h7 .red{
+    color: red;
+  }
+
+  .Card-1{
+    max-width: 75%;
+    padding: 2rem 2rem;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color:transparent;
+    border-radius: 0.25rem;
+    outline-color:transparent;
+    outline-width: 10px;
+    outline-style:outset;
+  }
+  .white
+  {
+    color:aliceblue;
+  }
+
+
+
+
+
+
+

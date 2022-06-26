@@ -1,0 +1,32 @@
+.Card {
+    max-width: 75%;
+    padding: 1rem 2rem;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(40px);
+    background-color: rgba(255, 255, 255, 0.911);
+    border-radius: 0.25rem;
+    border: 0.1px solid #ccc;
+    box-shadow: 0.2px 1px 3px 0.7px;
+  }
+
+  .buttonGrey {
+    font-size: 16px;
+    height: 45px;
+    width: 45px;
+    background-color:transparent;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    padding: 0 1rem;
+   
+  }
+
+ .buttonGrey:hover {
+    background-color: #a8a1a1;
+    cursor:pointer;
+  }
+
+
